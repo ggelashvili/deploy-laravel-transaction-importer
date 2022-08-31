@@ -28,7 +28,7 @@
                                 @endforeach
                             </label>
                             <button type="submit"
-                                    class="bg-blue-700 text-xl tracking-wider hover:bg-blue-900 font-bold text-white px-6 py-2 rounded-lg w-full">
+                                    class="bg-sky-700 text-xl tracking-wider hover:bg-sky-900 font-bold text-white px-6 py-2 rounded-lg w-full">
                                 Import
                             </button>
                         </form>
